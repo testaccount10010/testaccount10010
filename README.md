@@ -1,7 +1,5 @@
 # Web Scrapers
 
-## What is Web Scraping?
-
 Web Scraping is the process of getting content off websites, and extracting data to put them to some use such as automation, ML models training, etc.
 
 ## Getting Started for Contribution
