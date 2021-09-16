@@ -5,7 +5,9 @@
 
 Hacktoberfest is an yearly event, held in the month of October, celebrating the contribution of open source projects to the world, and encouraging developers all over the world to contribute to the projects.
 
-## 👨‍💻 Getting Started for Contribution
+**Know more about Hacktoberfest 2021, [here](https://hacktoberfest.digitalocean.com/)!**
+
+## 👨‍💻 Get Started with Contributing Now! 
 
 - Fork the repository by clicking the fork button at the top right of the repository.
 
