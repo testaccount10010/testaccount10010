@@ -28,6 +28,4 @@ Press the <kbd>.</kbd> key in the forked repository to open GitHub's web editor.
 
 ---
 
-## Join us on Social Media
-
-[![Join us on Discord!](https://i.ibb.co/YyRbY2Y/discord-label.png)](https://discord.gg/44g53ckhEh) [![Follow us on Instagram!](https://i.ibb.co/PhNR5X9/instagram-label.png)](https://www.instagram.com/innovationcenter.gitam)
+## [![Join us on Discord!](https://i.ibb.co/YyRbY2Y/discord-label.png)](https://discord.gg/44g53ckhEh)
