@@ -10,7 +10,7 @@ Web Scraping is the process of getting content off websites, and extracting data
 
 - Clone the repository to your local machine using  
 `git clone git@github.com:your-username/web-scrappers.git`  
-              --- or ---
+              --- or ---  
 Press the ```.``` key in the forked repository to open GitHub's web editor.
 
 - Commit the changes and push them to your repository.
