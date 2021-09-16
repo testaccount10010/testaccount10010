@@ -2,6 +2,9 @@
 
 **Contribute to the Open-Source Source Community and get awesome 😎 prizes! 🎉🎉**
 ---
+
+Hacktoberfest is an yearly event, held in the month of October, celebrating the contribution of open source projects to the world, and encouraging developers all over the world to contribute to the projects.
+
 ## 👨‍💻 Getting Started for Contribution
 
 - Fork the repository by clicking the fork button at the top right of the repository.
