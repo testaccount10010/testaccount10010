@@ -1,7 +1,6 @@
 # 🙌 Welcome to Hacktoberfest 2021! 🙌
 
-**Contribute to the Open-Source Source Community and get awesome 😎 prizes! 🎉🎉**
----
+## Contribute to the Open-Source Source Community and get awesome 😎 prizes! 🎉🎉**
 
 Hacktoberfest is an yearly event, held in the month of October, celebrating the contribution of open source projects to the world, and encouraging developers all over the world to contribute to the projects.
 
@@ -26,6 +25,4 @@ Press the <kbd>.</kbd> key in the forked repository to open GitHub's web editor.
 
 - If adding a project, please provide proper documentation and getting-started sections in the README.md file.
 
----
-
-## [![Join us on Discord!](https://i.ibb.co/YyRbY2Y/discord-label.png)](https://discord.gg/44g53ckhEh)
+## Stay Tuned for more updates!
