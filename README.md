@@ -24,3 +24,6 @@ Press the <kbd>.</kbd> key in the forked repository to open GitHub's web editor.
    Please read and follow the [Contribution Guidelines](CONTRIBUTING.md) before you create a pull request.
 
 ## ⏳ Stay Tuned for more updates!
+
+
+[![Satvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=akkaraju-satvik)](https://github.com/anuraghazra/github-readme-stats)
