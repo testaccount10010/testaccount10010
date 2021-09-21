@@ -2,8 +2,8 @@
 
 ## ⛏ *All your Web Scraping Projects made with Python go here!*  
 
-> ###  🤓 *Scrape the web, don't let your skills ebb*
->                   - Master Unknown
+> ###  🤓 *The data you scrape, shall make you an alpha ape*
+>                             - Master Oogway
 
 
 ### 📂 Upload your files as a folder with the following structure 
