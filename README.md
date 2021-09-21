@@ -2,9 +2,7 @@
 
 ## ⛏ *All your Web Scraping Projects made with Python go here!*
 
----
-
-### Upload your files as a folder with the following structure 
+### 📂 Upload your files as a folder with the following structure 
 
 ```
 --- folder-name
@@ -13,5 +11,3 @@
     |--- screenshot(s).png     ==> screenshot of the script having scraped some data
     |--- README.md          ==> proper documentation on how to use the scraper.
 ```
-
----
