@@ -2,5 +2,5 @@
 
 ## ⛏ *All your JavaScript/NodeJS Web Scraping Projects go here*
 
-> ### 🤓 *Bring the data, you shall*
->              - Master Yoda
+> ### 🤓 *Bring the downfall of the Empire, the scraped data shall*
+>                            - Master Yoda
