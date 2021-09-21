@@ -1,11 +1,9 @@
-# 🐍 Python Web Scrapers
+# <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="25"> JavaScript Web-Scrapper
 
-## ⛏ *All your Web Scraping Projects made with Python go here!*  
+## ⛏ *All your JavaScript/NodeJS Web Scraping Projects go here*
 
-> ###  🤓 *The data you scrape, shall make you an alpha ape*
->                             - Master Oogway
-
-
+> ### 🤓 *Bring the data, you shall*
+>                             - Master Yoda
 ### 📂 Upload your files as a folder with the following structure 
 ---
 
